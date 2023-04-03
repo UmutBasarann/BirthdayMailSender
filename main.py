@@ -5,9 +5,9 @@ from datetime import datetime
 
 ##################### Hard Starting Project ######################
 
-user_mail = "umuttbasarann@gmail.com"
-user_password = "gqbuyufzdciayuic"
-to_mail = "techwithzanzi@gmail.com"
+user_mail = "Your Email Here"
+user_password = "Your Password Here"
+to_mail = "Your To Email Here"
 
 today_date = datetime.now()
 today = (today_date.month, today_date.day)
